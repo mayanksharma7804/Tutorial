@@ -1,4 +1,5 @@
 # Tutorial
+
 This is my first tutorial repository.
 <br>
-Author - Mayank Sharma
+Author - Mayank Sharma (AKGEC)
